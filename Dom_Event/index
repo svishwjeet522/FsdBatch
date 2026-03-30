@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 id="heading">Hello Students</h1>
+<p id="para">Click the button to see change</p>
+
+<button id="btn">Click Me</button>
+
+<script src="main.js"></script>
+
+</body>
+</html>
